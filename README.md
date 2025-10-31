@@ -13,5 +13,5 @@
     </td>
   </tr>
   <h2>なんか</h2>
-  <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,next,figma,python,fastapi,go,docker,terraform,aws,gcp" />
+  <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=twitter,vscode,vite,html,css,js,sass,react,next,figma,ai" />
 </table>
