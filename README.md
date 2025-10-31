@@ -12,4 +12,6 @@
       </ul>
     </td>
   </tr>
+  <h2>なんか</h2>
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 </table>
