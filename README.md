@@ -1,5 +1,3 @@
-## あんにょ〜ん 🙌
-
 <table>
   <tr>
     <td valign="middle">
