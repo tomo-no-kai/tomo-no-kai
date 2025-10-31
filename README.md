@@ -13,5 +13,5 @@
     </td>
   </tr>
 </table>
-    <h2>会長があーねって言うやつ</h2>
+    <h2>会長の嗜み</h2>
   <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=twitter,vscode,vite,html,css,js,sass,react,next,figma,ai" />
