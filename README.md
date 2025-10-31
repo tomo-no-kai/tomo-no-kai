@@ -1,4 +1,6 @@
 <table>
+    <h2>なんか</h2>
+  <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=twitter,vscode,vite,html,css,js,sass,react,next,figma,ai" />
   <tr>
     <td valign="middle">
       <img src="./assets/atamakuchi-1.gif" width="200" alt="nani" />
@@ -12,6 +14,4 @@
       </ul>
     </td>
   </tr>
-  <h2>なんか</h2>
-  <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=twitter,vscode,vite,html,css,js,sass,react,next,figma,ai" />
 </table>
