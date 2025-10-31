@@ -4,7 +4,7 @@
       <img src="./assets/atamakuchi-1.gif" width="200" alt="nani" />
     </td>
     <td valign="middle">
-      <h2>ご挨拶</h2>
+      <h2>天六の犬友の会　会長からのご挨拶</h2>
       <p>こんにちは。</p>
       <ul>
         <li>将来の夢: デザイナー</li>
