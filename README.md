@@ -14,4 +14,4 @@
   </tr>
 </table>
     <h2>会長の嗜み</h2>
-  <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=twitter,misskey,vscode,vite,html,css,js,sass,react,next,figma,ai" />
+  <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=twitter,misskey,vscode,github,vite,html,css,js,sass,react,next,figma,ai" />
