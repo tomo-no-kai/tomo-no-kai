@@ -1,7 +1,10 @@
 <table>
   <tr>
     <td valign="middle">
-      <img src="./assets/atamakuchi-1.gif" width="200" alt="nani" />
+      <p>　 .,,..,,,,_<br>
+/ ,' 3　 `ヽｰっ<br>
+l　　 ⊃　⌒_つ<br>
+`'ｰ---‐'''''" 　</p>
     </td>
     <td valign="middle">
       <h2>カンノヤ友の会 - 会長からのご挨拶</h2>
