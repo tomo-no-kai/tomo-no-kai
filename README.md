@@ -4,7 +4,7 @@
     <td valign="middle">
      <img width="200" alt="kaicho" src="https://github.com/user-attachments/assets/f653f7c7-ab13-4632-89ad-607409d55025" />
     <p>菅野会長のすてきな肖像画</p>
-    <td valign="middle">
+    <td>
       <h2>会長からのご挨拶</h2>
       <p>このたびは、カンノヤ友の会のGitHubをご覧いただき、誠にありがとうございます。<br>
         カンノヤ友の会は、見る人に親切な「やさしいデザイン」を信念に、日々活動しております。<br>
@@ -15,8 +15,7 @@
         <li>好きな哲学者： ウィトゲンシュタイン</li>
       </ul>
     </td>
-
   </tr>
 </table>
     <h2>会長の嗜み</h2>
-  <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=twitter,misskey,vscode,github,vite,html,css,js,sass,react,next,figma,ai" />
+  <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=twitter,misskey,github,vscode,html,css,js,sass,vite,react,next,figma,ai" />
